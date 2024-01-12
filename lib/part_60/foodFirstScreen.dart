@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:model_3_49/part60/foodSecondScreen.dart';
+import 'package:model_3_49/part_60/foodSecondScreen.dart';
 
 class FoodScreen extends StatefulWidget {
   const FoodScreen({super.key});

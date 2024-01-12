@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:model_3_49/part51/numberrange.dart';
+import 'package:model_3_49/part_51/numberrange.dart';
 
 class InputTwoNumber extends StatelessWidget {
   const InputTwoNumber({super.key});
